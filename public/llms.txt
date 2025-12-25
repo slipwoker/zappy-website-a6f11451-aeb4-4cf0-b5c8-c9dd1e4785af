@@ -1,0 +1,65 @@
+# סע"ר הרצליה צפון — Generative Engine Optimization Map
+
+> סע"ר הרצליה צפון - כשכל שנייה קובעת, אנחנו כאן בשבילכם. ארגון התנדבותי לחירום ברובע הרצליה צפון עם צוותי חילוץ, מפקדת רובע ומכלולים שונים.
+
+---
+
+## Pages
+
+### דף הבית
+https://-a6f11451.zappy5.app
+סע"ר הרצליה צפון - ארגון התנדבותי לחירום וחילוץ. הצטרפו למתנדבים שלנו והיו חלק מהצוות שמציל חיים בכל שנייה.
+
+### מכלולים ושירותים
+https://-a6f11451.zappy5.app/services
+גלו את המכלולים והשירותים המגוונים של סע״ר הרצליה צפון: מפקדת רובע, צוותי חילוץ, מבצעים, אוכלוסיה, עבודה סוציאלית ולוגיסטיקה.
+
+### אודות
+https://-a6f11451.zappy5.app/about
+למדו על סע״ר הרצליה צפון - הארגון ההתנדבותי לחירום וחילוץ ברובע הרצליה צפון. הסיפור שלנו, הערכים והמחויבות למתנדבים ולקהילה.
+
+### הצטרפו אלינו
+https://-a6f11451.zappy5.app/contact
+מוכנים להתנדב? מלאו את הטופס והצטרפו לסע״ר הרצליה צפון. התנדבות חילוץ והצלה הרצליה מתחילה כאן.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-a6f11451.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-a6f11451.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-a6f11451.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About סע"ר הרצליה צפון
+סע"ר הרצליה צפון - כשכל שנייה קובעת, אנחנו כאן בשבילכם. ארגון התנדבותי לחירום ברובע הרצליה צפון עם צוותי חילוץ, מפקדת רובע ומכלולים שונים.
+
+## Services/Products
+- מפקדת רובע
+- צוותי חילוץ
+- מכלול מבצעים
+- מכלול אוכלוסיה
+- מכלול עו"ס ורווחה
+- לוגיסטיקה
+
+## Target Audience
+מתנדבים קיימים ומועמדים חדשים להתנדבות
+
+## Industry
+חירום וביטחון
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-a6f11451.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-a6f11451.zappy5.app/robots.txt
